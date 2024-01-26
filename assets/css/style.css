@@ -372,6 +372,7 @@ h3 {
 
 .card {
   margin-bottom: 70px;
+  width: 600px;
 }
 
 .card .role {
