@@ -377,6 +377,8 @@ h3 {
 #experience .card {
   margin-bottom: 70px;
   width: 1200px; 
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .card .role {
