@@ -348,7 +348,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #0055b0; /*#24305e; */
 }
 
 #intro.section .teal {
