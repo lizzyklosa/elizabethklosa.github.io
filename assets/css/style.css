@@ -172,6 +172,10 @@ blockquote * {
   text-align: center;
 }
 
+.justify-text {
+  text-align: justify;
+}
+
 /* main nav */
 
 nav {
